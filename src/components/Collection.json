@@ -1,0 +1,45 @@
+[
+  [
+    {
+      "id": "1",
+      "src": "capitalImages/redbottle.png",
+      "des": "Men's Fashion"
+    },
+    {
+      "id": "2",
+      "src": "capitalImages/outfitfortheday.png",
+      "des": "Women's Fashion"
+    },
+    {
+      "id": "3",
+      "src": "capitalImages/pinkoutfit.png",
+      "des": "Baby Fashion"
+    }
+  ],
+  [
+    {
+      "id": "1",
+      "src": "capitalImages/wristwatch.png",
+      "des": "Cashmere Tank+Bag",
+      "price": "$98.00 $120.000"
+    },
+    {
+      "id": "2",
+      "src": "capitalImages/nicedryer.png",
+      "des": "Women's Fashion",
+      "price": "$78.00 $99.000"
+    },
+    {
+      "id": "3",
+      "src": "capitalImages/styledollcolor.png",
+      "des": "Style Doll Fashion",
+      "price": "$48.00 $99.000"
+    },
+    {
+      "id": "4",
+      "src": "capitalImages/nicedryer.png",
+      "des": "Tumeric Dress Fashion",
+      "price": "$32.00 $99.000"
+    }
+  ]
+]
