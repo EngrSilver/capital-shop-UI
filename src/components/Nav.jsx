@@ -6,7 +6,6 @@ import { IoSearchSharp } from 'react-icons/io5';
 import { IoIosContacts } from 'react-icons/io';
 import { TbShoppingCartPin } from 'react-icons/tb';
 import { GiHamburgerMenu } from 'react-icons/gi';
-import { set } from 'react-hook-form';
 
 export default function Nav() {
   const bottomNavRef = useRef(null);
