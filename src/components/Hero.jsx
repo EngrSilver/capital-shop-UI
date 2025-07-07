@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Hero() {
   return (
-    <div className="hero bg-[fff8dd] md:bg-[url('./capitalImages/ladyblue.png')] h-[500px] bg-left bg-no-repeat bg-cover flex">
+    <div className="hero bg-[fff8dd] md:bg-[url('/capitalImages/ladyblue.png')] h-[500px] bg-left bg-no-repeat bg-cover flex">
       <div className="ladySection hidden md:block  w-[50%] "></div>
       <div className="otherSection flex flex-col justify-center items-center p-[2rem]">
         <p className="text-[1.3rem] mb-5 font-semibold text-red-600">
