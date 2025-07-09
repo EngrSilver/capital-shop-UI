@@ -6,6 +6,7 @@ import { IoSearchSharp } from 'react-icons/io5';
 import { IoIosContacts } from 'react-icons/io';
 import { TbShoppingCartPin } from 'react-icons/tb';
 import { GiHamburgerMenu } from 'react-icons/gi';
+import { Routes, Route, Link } from 'react-router-dom';
 
 export default function Nav() {
   const bottomNavRef = useRef(null);
@@ -85,6 +86,9 @@ export default function Nav() {
           <li>Baby Collection</li>
           <li>Page</li>
           <li>Blog</li>
+          <Link to="/contact">
+            <li>Contact</li>
+          </Link>
           <IoSearchSharp />
           <IoIosContacts />
           <TbShoppingCartPin />
